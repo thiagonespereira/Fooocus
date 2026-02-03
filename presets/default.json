@@ -1,5 +1,5 @@
 {
-    "default_model": "ponyRealism",
+    "default_model": "autism",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -45,7 +45,7 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-        "ponyRealism": "https://civitai.com/api/download/models/534642?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "autism": "https://civitai.com/api/download/models/324619?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
