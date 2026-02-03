@@ -1,5 +1,5 @@
 {
-    "default_model": "ponyDiffusionV6XL_v6StartWithThisOne.safetensors",
+    "default_model": "allin1model",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -44,7 +44,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "ponyDiffusionV6XL_v6StartWithThisOne.safetensors": "https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL/resolve/main/ponyDiffusionV6XL_v6StartWithThisOne.safetensors"
+        "allin1model": "httpshttps://civitai.com/api/download/models/160240?type=Model&format=SafeTensor"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
