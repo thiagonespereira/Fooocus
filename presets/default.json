@@ -44,7 +44,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "allin1model": "httpshttps://civitai.com/api/download/models/160240?type=Model&format=SafeTensor"
+        "allin1model": "https://civitai.com/api/download/models/160240?type=Model&format=SafeTensor"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
