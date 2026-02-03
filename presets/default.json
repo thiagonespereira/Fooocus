@@ -1,5 +1,5 @@
 {
-    "default_model": "yogi",
+    "default_model": "ponyRealism",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -45,7 +45,7 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-        "yogi": "https://civitai.com/api/download/models/1075446?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "ponyRealism": "https://civitai.com/api/download/models/534642?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
