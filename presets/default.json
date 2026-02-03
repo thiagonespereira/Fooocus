@@ -45,7 +45,7 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-        "autism": "https://civitai.com/api/download/models/324619?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "autism": "https://huggingface.co/LyliaEngine/autismmixSDXL_autismmixConfetti/resolve/main/autismmixSDXL_autismmixConfetti.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
